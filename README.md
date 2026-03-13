@@ -1,8 +1,7 @@
-# Guia da Biblioteca - UFNT Araguaína
+# Guia da Biblioteca
 
 Este aplicativo Android foi desenvolvido como um **Projeto de Extensão Universitária**. 
-O objetivo é facilitar o acesso da comunidade acadêmica aos serviços da Biblioteca 
-Professor Severino Francisco.
+O objetivo é facilitar o acesso da comunidade acadêmica aos serviços da Biblioteca.
 
 ## 🚀 Funcionalidades
 - **Consulta ao Acervo:** Integração otimizada com o portal de busca da UFNT.
