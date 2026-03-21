@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Guia da Biblioteca</string>
+
+    <string name="secao_faq">Perguntas e Respostas (FAQ)</string>
+    <string name="secao_solaris">Repositório Solaris</string>
+    <string name="secao_ficha_catalografica">Ficha Catalográfica</string>
+
+    <string-array name="faq_titulos">
+        <item>Horário e Localização</item>
+        <item>Empréstimos e Prazos</item>
+        <item>Carteirinha Digital</item>
+        <item>Regras e Conduta</item>
+        <item>Multas e Pagamentos</item>
+        <item>Serviços e Acervo</item>
+        <item>Biblioteca Digital (Minha Biblioteca)</item>
+        <item>Formatura e Documentos</item>
+        <item>Cabines de Estudos</item>
+    </string-array>
+
+    <string-array name="faq_textos">
+        <item><![CDATA[
+            <big><b>Qual o horário de funcionamento da biblioteca?</b></big><br>
+            A biblioteca funciona de segunda a sexta-feira, das 07h30 às 21h30.<br><br>
+            <big><b>Onde a biblioteca está localizada?</b></big><br>
+            Ela está situada no Setor CIMBA.
+        ]]></item>
+
+        <item><![CDATA[
+            <big><b>Quantos livros posso pegar e por quanto tempo?</b></big><br>
+            <b>• Aluno:</b> até 3 livros por 7 dias (renovável 3x).<br>
+            <b>• Professor:</b> até 5 livros por 15 dias (renovável 3x).<br><br>
+            <big><b>O que é o Empréstimo Especial?</b></big><br>
+            <b>• Xerox:</b> Prazo de 2 horas.<br>
+            <b>• Pernoite:</b> Retirada após as 21h e devolução até as 08h do dia seguinte.<br><br>
+            <big><b>Renovação e Reserva:</b></big><br>
+            Devem ser feitas exclusivamente pelo Portal do Aluno. Outra pessoa pode devolver o livro para você, basta informar seu nome ou matrícula.
+        ]]></item>
+
+        <item><![CDATA[
+            <big><b>Como solicito minha Carteirinha?</b></big><br>
+            Pelo link na bio do Instagram @bibliotecaaraguaina ou via formulário direto. A foto deve ser JPEG, de frente, com fundo branco.<br><br>
+            <big><b>Perdi minha carteirinha, e agora?</b></big><br>
+            A carteirinha é pessoal. A emissão da 2ª via tem um custo de R$ 5,00.
+        ]]></item>
+
+        <item><![CDATA[
+            <big><b>O que é proibido entrar?</b></big><br>
+            É proibido entrar com bolsas, mochilas, cases de notebook, lanchar, fumar ou falar ao telefone.<br><br>
+            <big><b>Onde guardo meus pertences?</b></big><br>
+            Utilize os armários rotativos. O uso é restrito ao período em que você estiver na biblioteca.<br>
+            <b>• Turno 1:</b> 07h às 18h<br>
+            <b>• Turno 2:</b> 18h às 21h15<br><br>
+            <b>Importante:</b> Não coloque os livros de volta nas estantes. Deixe que a equipe faça isso.
+        ]]></item>
+
+        <item><![CDATA[
+            <big><b>Valores das Multas:</b></big><br>
+            <b>• Acervo Geral:</b> R$ 1,00 por dia por item.<br>
+            <b>• Chave de Armário:</b> R$ 5,00 por turno. (Perda da chave: R$ 30,00).<br>
+            <b>• Empréstimo Especial:</b> R$ 1,00 por hora no 1º dia; R$ 4,00 por dia nos seguintes.<br><br>
+            <big><b>Como pagar?</b></big><br>
+            O pagamento deve ser feito via GRU (Banco do Brasil). Não são aceitos agendamentos.
+        ]]></item>
+
+        <item><![CDATA[
+            <big><b>Além de livros físicos, o que há?</b></big><br>
+            Acesso a bases de dados, treinamento, normalização de trabalhos, Wi-Fi e salas de estudo.<br><br>
+            <big><b>Como os livros estão organizados?</b></big><br>
+            Pela Classificação Decimal de Dewey (CDD), que divide os assuntos de 000 a 900.
+        ]]></item>
+
+        <item><![CDATA[
+            <big><b>Quem pode acessar e como cadastrar?</b></big><br>
+            Toda a comunidade acadêmica. É necessário preencher o formulário da sua categoria. O acesso é liberado em até 48h.<br><br>
+            <big><b>Login e Senha:</b></big><br>
+            <b>• Usuário:</b> Sua matrícula.<br>
+            <b>• Senha:</b> 5 últimos números do seu CPF (sem hífen).
+        ]]></item>
+
+        <item><![CDATA[
+            <big><b>Como emito o "Nada Consta"?</b></big><br>
+            Informe seu nome e matrícula à biblioteca. Se não houver pendências, o documento será emitido.<br><br>
+            <big><b>Ficha Catalográfica:</b></big><br>
+            Deve ser gerada automaticamente pelo Sistema de Geração de Fichas da UFNT.
+        ]]></item>
+
+        <item><![CDATA[
+            <big><b>Como utilizar as salas?</b></big><br>
+            Solicite a um servidor para ligar o ar-condicionado. Apenas quem retira a chave precisa apresentar a carteirinha. Lembre-se de trancar a porta ao sair.
+        ]]></item>
+    </string-array>
+
+    <string name="endereco_biblioteca">geo:0,0?q=Biblioteca+Professor+Severino+Francisco+-+UFNT</string>
+    <string name="whatsapp_biblioteca">556399156716&amp;text=Ola,+preciso+de+ajuda.</string>
+    <string name="url_solaris">https://solaris.ufnt.edu.br/home</string>
+    <string name="url_ficha_catalografica">https://sistemas.ufnt.edu.br/ficha-catalografica/ficha/</string>
+
+</resources>
